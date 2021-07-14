@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body {
+    background-color: #191414;
+}
+
+span {
+    color: white;
+    filter: drop-shadow(0 0 0.15rem white);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.center {
+    text-align: center;
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#tName {
+    font-size: 250%;
+}
+
+#tArtist {
+    font-size: 150%;
+}
+
+#tAlbumImg {
+    width: 500px;
+    height: 500px;
+    filter: drop-shadow(0 0 1rem white);
+    padding-top: 10px;
+}

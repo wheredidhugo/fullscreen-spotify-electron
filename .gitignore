@@ -1,0 +1,6 @@
+#Folders
+/node_modules
+/dont_push
+
+#macOS
+.DS_Store

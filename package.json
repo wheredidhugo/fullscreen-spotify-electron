@@ -1,0 +1,17 @@
+{
+  "name": "fullscreen-spotify",
+  "version": "1.0.1",
+  "description": "An application that displays the current song you're listening to in fullscreen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "bgpvp",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  },
+  "dependencies": {
+    "lastfm": "^0.9.3"
+  }
+}
