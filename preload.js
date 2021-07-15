@@ -1,4 +1,4 @@
-const config = require("./config.json");
+const config = require("./src/config.json");
 const { LastFmNode } = require("lastfm");
 
 const l = new LastFmNode({

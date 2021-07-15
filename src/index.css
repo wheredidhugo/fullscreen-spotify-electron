@@ -37,7 +37,7 @@ span {
 }
 
 .bgImg {
-  background-image: url("random.png");
+  background-image: url("");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
