@@ -1,35 +1,52 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
 
-body {
-    background-color: #191414;
+body,
+html {
+  height: 100%;
+  overflow-y: hidden;
 }
 
 span {
-    color: white;
-    filter: drop-shadow(0 0 0.15rem white);
-    font-family: 'Quicksand', sans-serif;
-}
-
-.center {
-    text-align: center;
-    width: 500px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  color: white;
+  filter: drop-shadow(0 0 0.15rem black);
+  font-family: "Quicksand", sans-serif;
 }
 
 #tName {
-    font-size: 250%;
+  font-size: 250%;
 }
 
 #tArtist {
-    font-size: 150%;
+  font-size: 150%;
 }
 
 #tAlbumImg {
-    width: 500px;
-    height: 500px;
-    filter: drop-shadow(0 0 1rem white);
-    padding-top: 10px;
+  width: 500px;
+  height: 500px;
+  filter: drop-shadow(0 0 0.5rem white);
+  padding-top: 10px;
+}
+
+.center {
+  text-align: center;
+  width: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bgImg {
+  background-image: url("random.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 98vh;
+  width: 100%;
+}
+
+.blur {
+  backdrop-filter: blur(20px);
+  height: 98vh;
+  width: 100%;
 }

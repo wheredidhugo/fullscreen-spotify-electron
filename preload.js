@@ -21,9 +21,14 @@ window.addEventListener("DOMContentLoaded", () => {
     if (element) element.src = text;
   }
 
+  function changeBackground(selector, text) {
+    document.getElementsByClassName(selector)[0].style.backgroundImage = "url('" + text + "')";
+  }
+
   trackStream.on("nowPlaying", function (track) {
     replaceText("tName", track.name);
     replaceText("tArtist", track.artist["#text"]);
     replaceImg("tAlbumImg", track.image[3]["#text"]);
+    changeBackground("bgImg", track.image[3]["#text"])
   });
 });
