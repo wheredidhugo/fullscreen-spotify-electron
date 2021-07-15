@@ -2,6 +2,7 @@
 /node_modules
 /dont_push
 /release-builds
+/src/icons/dont_push
 
 #macOS
 .DS_Store
