@@ -74,3 +74,5 @@ Simply play a song on spotify and within 5 to 10 seconds, you should see it on t
 ## Step 6: Building 
 
 (WIP)
+
+# Don't forget to :star: this repo!
