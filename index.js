@@ -10,7 +10,7 @@ function createWindow() {
     },
   });
   mainWindow.loadFile("index.html");
-  mainWindow.maximize()
+  mainWindow.maximize();
 }
 
 app.whenReady().then(() => {

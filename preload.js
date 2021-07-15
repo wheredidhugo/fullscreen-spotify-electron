@@ -29,6 +29,6 @@ window.addEventListener("DOMContentLoaded", () => {
     replaceText("tName", track.name);
     replaceText("tArtist", track.artist["#text"]);
     replaceImg("tAlbumImg", track.image[3]["#text"]);
-    changeBackground("bgImg", track.image[3]["#text"])
+    changeBackground("bgImg", track.image[3]["#text"]);
   });
 });
