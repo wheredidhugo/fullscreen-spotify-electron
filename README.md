@@ -1,6 +1,8 @@
 # ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/logo.png)
 An application that displays the current song you're listening to in fullscreen.
 
+![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/screenshot.jpeg)
+
 # How to use:
 
 ## Step 1: Download this application
