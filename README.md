@@ -1,7 +1,7 @@
-# ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/logo.png)
+# ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/readme-images/logo.png)
 An application that displays the current song you're listening to in fullscreen.
 
-![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/screenshot.jpeg)
+![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/readme-images/screenshot.jpeg)
 
 # How to use:
 
@@ -14,7 +14,7 @@ or
 Clone this repository by using a command line:
 
 ```bash
->git clone https://github.com/bgpvp/fullscreen-spotify/
+git clone https://github.com/bgpvp/fullscreen-spotify/
 ```
 
 ## Step 2: Last.fm Linking
@@ -43,7 +43,7 @@ Once you pressed "Submit", you'll get an api key and a shared secret key, note t
 
 ## Step 4: config.json
 
-Once you have your api and secret key, go to the "config.json" file and edit it using a text editor like Visual Studio Code, Atom or even Notepad++.
+Once you have your api and secret key, go to the "config.json" file (in the "src" folder) and edit it using a text editor like Visual Studio Code, Atom or even Notepad++.
 
 Next to "apiKey", change "Replace with your own api key." with your own api key.
 
@@ -58,13 +58,13 @@ Let's see if it works.
 First, open a command line and install all the dependencies by typing:
 
 ```bash
->npm install
+npm install
 ```
 
 then run 
 
 ```bash
->npm start
+npm start
 ```
 
 If it works, you should see a black window.
@@ -73,6 +73,32 @@ Simply play a song on spotify and within 5 to 10 seconds, you should see it on t
 
 ## Step 6: Building 
 
-(WIP)
+Now's time to build an app instead of using the command line every time.
+
+The command to do this is different for each Operating System.
+
+**Windows:**
+
+```bash
+npm run package-win
+```
+
+**macOS:**
+
+```bash
+npm run package-mac
+```
+
+**Linux:**
+
+```bash
+npm run package-linux
+```
+
+Once the command run, you'll see a new folder created called "release-builds".
+
+In there you'll see the "fullscreen-spotify" application!
+
+Run it and enjoy your fullscreen spotify!
 
 # Don't forget to :star: this repo!

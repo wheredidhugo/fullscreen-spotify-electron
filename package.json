@@ -1,15 +1,19 @@
 {
   "name": "fullscreen-spotify",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "An application that displays the current song you're listening to in fullscreen.",
   "main": "index.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=src/icons/icon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . fullscreen-spotify --overwrite --asar=true --platform=win32 --arch=ia32 --icon=src/icons/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Fullscreen Spotify\"",
+    "package-linux": "electron-packager . fullscreen-spotify --overwrite --asar=true --platform=linux --arch=x64 --icon=src/icons/icon.png --prune=true --out=release-builds"
   },
   "author": "bgpvp",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^13.1.6"
+    "electron": "^13.1.6",
+    "electron-packager": "^15.2.0"
   },
   "dependencies": {
     "lastfm": "^0.9.3"
@@ -19,10 +23,12 @@
     "url": "git+https://github.com/bgpvp/fullscreen-spotify.git"
   },
   "keywords": [
+    "electron",
+    "nodejs",
     "spotify",
+    "js",
     "fullscreen",
-    "last.fm",
-    "js"
+    "lastfm"
   ],
   "bugs": {
     "url": "https://github.com/bgpvp/fullscreen-spotify/issues"
