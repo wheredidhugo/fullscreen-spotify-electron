@@ -1,4 +1,5 @@
 # ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/readme-images/logo.png)
+
 An application that displays the current song you're listening to in fullscreen.
 
 ![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/readme-images/screenshot.jpeg)
@@ -61,7 +62,7 @@ First, open a command line and install all the dependencies by typing:
 npm install
 ```
 
-then run 
+then run
 
 ```bash
 npm start
@@ -71,7 +72,7 @@ If it works, you should see a black window.
 
 Simply play a song on spotify and within 5 to 10 seconds, you should see it on this black window.
 
-## Step 6: Building 
+## Step 6: Building
 
 Now's time to build an app instead of using the command line every time.
 
