@@ -1,4 +1,4 @@
-# Fullscreen Spotify
+# ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/logo.png)
 An application that displays the current song you're listening to in fullscreen.
 
 # How to use:
