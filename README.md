@@ -1,6 +1,6 @@
 # ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/readme-images/logo.png)
 
-An application that displays the current song you're listening to in fullscreen.
+🎵 An application that displays the current song you're listening to in fullscreen.
 
 ![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/readme-images/screenshot.jpeg)
 
@@ -96,7 +96,7 @@ npm run package-mac
 npm run package-linux
 ```
 
-Once the command run, you'll see a new folder created called "release-builds".
+Once the command run, you'll see a new folder called "release-builds".
 
 In there you'll see the "fullscreen-spotify" application!
 
