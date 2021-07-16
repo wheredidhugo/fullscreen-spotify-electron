@@ -6,6 +6,8 @@
 
 # How to use:
 
+## Make sure you have Node.js and NPM installed
+
 ## Step 1: Download this application
 
 Either download the zip by clicking on the green button that says "Code" and then clicking on "Download ZIP"
@@ -51,6 +53,8 @@ Next to "apiKey", change "Replace with your own api key." with your own api key.
 Next to "secret", change "Replace with your own secret key." with your own secret key.
 
 Next to "username", change "Replace with your own last.fm username." with your own last.fm username.
+
+Once this is done, save the "config.json" file.
 
 ## Step 5: Run
 
