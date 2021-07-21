@@ -1,8 +1,8 @@
-# ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/readme-images/logo.png)
+# ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/logo.png)
 
 🎵 An application that displays the current song you're listening to in fullscreen.
 
-![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/src/readme-images/screenshot.jpeg)
+![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/screenshot.jpeg)
 
 # How to use:
 

@@ -1,7 +1,7 @@
 #Folders
 /node_modules
 /release-builds
-/src/icons/dont_push
+/img/icons/dont_push
 
 #macOS
 .DS_Store

@@ -1,13 +1,13 @@
 {
   "name": "fullscreen-spotify",
-  "version": "1.2.1",
+  "version": "1.2.5",
   "description": "An application that displays the current song you're listening to in fullscreen.",
   "main": "index.js",
   "scripts": {
     "start": "electron .",
-    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=src/icons/icon.icns --prune=true --out=release-builds",
-    "package-win": "electron-packager . fullscreen-spotify --overwrite --asar=true --platform=win32 --arch=ia32 --icon=src/icons/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Fullscreen Spotify\"",
-    "package-linux": "electron-packager . fullscreen-spotify --overwrite --asar=true --platform=linux --arch=x64 --icon=src/icons/icon.png --prune=true --out=release-builds"
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=img/icons/icon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . fullscreen-spotify --overwrite --asar=true --platform=win32 --arch=ia32 --icon=img/icons/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Fullscreen Spotify\"",
+    "package-linux": "electron-packager . fullscreen-spotify --overwrite --asar=true --platform=linux --arch=x64 --icon=img/icons/icon.png --prune=true --out=release-builds"
   },
   "author": "bgpvp",
   "license": "ISC",
