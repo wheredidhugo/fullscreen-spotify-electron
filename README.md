@@ -62,13 +62,13 @@ Let's see if it works.
 
 First, open a command line and install all the dependencies by typing:
 
-```bash
+```js
 npm install
 ```
 
 then run
 
-```bash
+```js
 npm start
 ```
 
@@ -84,19 +84,19 @@ The command to do this is different for each Operating System.
 
 **Windows:**
 
-```bash
+```js
 npm run package-win
 ```
 
 **macOS:**
 
-```bash
+```js
 npm run package-mac
 ```
 
 **Linux:**
 
-```bash
+```js
 npm run package-linux
 ```
 
