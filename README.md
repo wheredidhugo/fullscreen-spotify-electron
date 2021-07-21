@@ -2,7 +2,7 @@
 
 🎵 An application that displays the current song you're listening to in fullscreen.
 
-![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/screenshot.jpeg)
+![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/screenshot.png)
 
 # How to use:
 
@@ -107,3 +107,9 @@ In there you'll see the "fullscreen-spotify" application!
 Run it and enjoy your fullscreen spotify!
 
 # Don't forget to :star: this repo!
+
+# More screenshots
+
+![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/screenshot2.png)
+
+![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/screenshot3.png)
