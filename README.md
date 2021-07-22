@@ -6,11 +6,11 @@
 
 # How to use:
 
-## Make sure you have Node.js and NPM installed
+## Make sure you have [Node.js and NPM](https://nodejs.org/en/) installed (it is recommanded to download the 14.17.3 LTS version)
 
 ## Step 1: Download this application
 
-Either download the zip by clicking on the green button that says "Code" and then clicking on "Download ZIP"
+Either download the zip by clicking on the green button that says "Code" and then clicking on "Download ZIP" (or even [this link](https://github.com/bgpvp/fullscreen-spotify/archive/refs/heads/main.zip))
 
 or
 
