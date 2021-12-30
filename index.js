@@ -9,6 +9,7 @@ function createWindow() {
       nodeIntegration: true,
       preload: path.join(__dirname, "preload.js"),
     },
+    autoHideMenuBar: true,
   });
   mainWindow.loadFile("index.html");
   mainWindow.maximize();
