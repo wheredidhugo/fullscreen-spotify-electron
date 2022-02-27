@@ -1,7 +1,7 @@
 {
   "name": "fullscreen-spotify",
   "version": "1.2.5",
-  "description": "An application that displays the current song you're listening to in fullscreen.",
+  "description": "🎵 An application that displays the current song you're listening to in fullscreen.",
   "main": "index.js",
   "scripts": {
     "start": "electron .",
