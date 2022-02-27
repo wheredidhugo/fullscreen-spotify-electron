@@ -1,8 +1,8 @@
-# ![Fullscreen Spotify](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/logo.png)
+# ![Fullscreen Spotify](hhttps://i.imgur.com/5ucW2Qm.png)
 
 🎵 An application that displays the current song you're listening to in fullscreen.
 
-![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/screenshot.png)
+![Screenshot of the application](https://i.imgur.com/RPTL9wz.png)
 
 # How to use:
 
@@ -10,15 +10,7 @@
 
 ## Step 1: Download this application
 
-Either download the zip by clicking on the green button that says "Code" and then clicking on "Download ZIP" (or even [this link](https://github.com/bgpvp/fullscreen-spotify/archive/refs/heads/main.zip))
-
-or
-
-Clone this repository by using a command line:
-
-```bash
-git clone https://github.com/bgpvp/fullscreen-spotify/
-```
+Clone this repository
 
 ## Step 2: Last.fm Linking
 
@@ -110,6 +102,6 @@ Run it and enjoy your fullscreen spotify!
 
 # More screenshots
 
-![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/screenshot2.png)
+![Screenshot of the application](https://i.imgur.com/StbnHi5.png)
 
-![Screenshot of the application](https://raw.githubusercontent.com/bgpvp/fullscreen-spotify/main/img/readme/screenshot3.png)
+![Screenshot of the application](https://i.imgur.com/xleuxye.png)
