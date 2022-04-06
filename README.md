@@ -1,3 +1,7 @@
+# This repository has been archived in favor of the web version of [fullscreen-spotify](https://github.com/wheredidhugo/fullscreen-spotify)
+
+# I do not recommend using this anymore.
+
 # ![Fullscreen Spotify](hhttps://i.imgur.com/5ucW2Qm.png)
 
 🎵 An application that displays the current song you're listening to in fullscreen.
